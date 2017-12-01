@@ -1,0 +1,17 @@
+CMU-5380 - 2o semestre/2017 - T4
+Prof. Regis Rossi A. Faria
+Arthur P M Tofani - 3339712
+Integração sequencial e paralela, identificação de processamentos e ordem de aplicação.
+=================
+
+Sobre a entrega:
+- O experimento foi desenvolvido usando a ferramenta jupyter-notebook, com código em Python e usando a biblioteca Essentia.
+- A parte escrita e a parte prática demonstrativa estão 'integradas' no mesmo notebook.
+
+Como executar/reproduzir:
+- O arquivo .ipynb pode ser aberto diretamente pelo jupyter-notebook.
+
+Versão HTML:
+
+- Na ausência do jupyter-notebook, basta abrir o arquivo index.html diretamente no navegador.
+- O mesmo conteúdo pode ser acessível através deste endereço no servidor do IME: http://ime.usp.br/~tofani/cmu-5380/t4
